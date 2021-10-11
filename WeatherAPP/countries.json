@@ -1,0 +1,163 @@
+[
+    {
+        "id": 192950,
+        "img": "https://flagcdn.com/80x60/ke.png",
+        "name": "Republic of Kenya",
+        "state": "",
+        "country": "KE",
+        "coord": {
+            "lon": 38.0,
+            "lat": 1.0
+        }
+    },
+    {
+        "id": 360630,
+        "img": "https://flagcdn.com/80x60/eg.png",
+        "name": "Cairo",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.24967,
+            "lat": 30.06263
+        }
+    },
+    {
+        "id": 2332453,
+        "img": "https://flagcdn.com/80x60/ng.png",
+        "name": "Lagos State",
+        "state": "",
+        "country": "NG",
+        "coord": {
+            "lon": 3.75,
+            "lat": 6.58333
+        }
+    },
+    {
+        "id": 2352778,
+        "img": "https://flagcdn.com/80x60/ng.png",
+        "name": "Abuja",
+        "state": "",
+        "country": "NG",
+        "coord": {
+            "lon": 7.48976,
+            "lat": 9.05735
+        }
+    },
+    
+    {
+        "id": 5128581,
+        "img": "https://flagcdn.com/80x60/us.png",
+        "name": "New York City",
+        "state": "NY",
+        "country": "US",
+        "coord": {
+            "lon": -74.005966,
+            "lat": 40.714272
+        }
+    },
+    {
+        "id": 4736134,
+        "img": "https://flagcdn.com/80x60/us.png",
+        "name": "Texas City",
+        "state": "TX",
+        "country": "US",
+        "coord": {
+            "lon": -94.902702,
+            "lat": 29.383841
+        }
+    },
+    
+    {
+        "id": 630336,
+        "img": "https://flagcdn.com/80x60/by.png",
+        "name": "Republic of Belarus",
+        "state": "",
+        "country": "BY",
+        "coord": {
+            "lon": 28.0,
+            "lat": 53.0
+        }
+    },
+    {
+        "id": 932692,
+        "img": "https://flagcdn.com/80x60/ls.png",
+        "name": "Kingdom of Lesotho",
+        "state": "",
+        "country": "LS",
+        "coord": {
+            "lon": 28.25,
+            "lat": -29.5
+        }
+    },
+    {
+        "id": 1642911,
+        "img": "https://flagcdn.com/80x60/id.png",
+        "name": "Jakarta",
+        "state": "",
+        "country": "ID",
+        "coord": {
+            "lon": 106.845131,
+            "lat": -6.21462
+        }
+    },
+    
+    {
+        "id": 323784,
+        "img": "https://flagcdn.com/80x60/tr.png",
+        "name": "Ankara",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 32.833328,
+            "lat": 39.916672
+        }
+    },
+    
+    {
+        "id": 2335204,
+        "img": "https://flagcdn.com/80x60/ng.png",
+        "name": "Kano",
+        "state": "",
+        "country": "NG",
+        "coord": {
+            "lon": 8.51672,
+            "lat": 12.00012
+        }
+    },
+    
+    {
+        "id": 3932488,
+        "img": "https://flagcdn.com/80x60/pe.png",
+        "name": "Republic of Peru",
+        "state": "",
+        "country": "PE",
+        "coord": {
+            "lon": -76.0,
+            "lat": -10.0
+        }
+    },
+    
+    {
+        "id": 6183235,
+        "img": "https://flagcdn.com/80x60/ca.png",
+        "name": "Winnipeg",
+        "state": "",
+        "country": "CA",
+        "coord": {
+            "lon": -97.147041,
+            "lat": 49.884399
+        }
+    },
+    
+    {
+        "id": 4146494,
+        "img": "https://flagcdn.com/80x60/us.png",
+        "name": "Bagdad",
+        "state": "FL",
+        "country": "US",
+        "coord": {
+            "lon": -87.031082,
+            "lat": 30.598801
+        }
+    }
+]
